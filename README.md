@@ -1,5 +1,5 @@
 ### Hi there 👋🏽 👋🏽
-This is 🅰️nna K
+This is Anna K
 
 <!--
 **Anna-Ashton/Anna-Ashton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
